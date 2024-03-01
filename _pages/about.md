@@ -7,15 +7,15 @@ description: #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: profile.png
-  # address: lulin[at]psu.edu
-  # address: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info: >
+    <p>E373 Westgate Building</p>
+    <p>University Park, PA 16802</p>
 
 news: true  # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 :wave: **Bio**: Hi, I'm Lu. I am currently a tenure-track assistant professor in the College of Information Sciences and Technology, [Penn State University](https://ist.psu.edu/){:target="_blank"} starting 2022 Fall. Prior to that, I received my Ph.D. in Computer Science at [University of Virginia](https://engineering.virginia.edu/departments/computer-science){:target="_blank"} in 2022, under supervision of Dr. [Hongning Wang](http://www.cs.virginia.edu/~hw5x/){:target="_blank"}. I recieved my M.s. and B.S. in 2017 and 2014 respectively, from Computer Science at [Beihang University](http://scse.buaa.edu.cn/English/About/College_Introduction.htm){:target="_blank"}. I have also interned at Didi Lab, LinkedIn and Pinterest Lab.
 <!--  -->
