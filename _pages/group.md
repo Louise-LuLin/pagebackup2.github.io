@@ -3,7 +3,7 @@ layout: page
 permalink: /group/
 title: Group
 nav: true
-sort: 4
+sort: 1
 ---
 
 ### PhD Students
@@ -17,6 +17,6 @@ sort: 4
 
 
 ### Alumni
-* [Edward Wei](https://www.linkedin.com/in/wei-edward/){:target="_blank"} (Undergrad Student, Spring 2022 - Spring 2023)
-* [Ethan Blaser](https://scholar.google.com/citations?user=fF7Ok0AAAAAJ&hl=en){:target="_blank"} (Undergrad Student, Spring 2020 - Fall 2021; now a Ph.D. student at UVa)
-* [Weihao Song](https://www.linkedin.com/in/weihao-mike-song-1bb0b1101/){:target="_blank"} (Master Student, Spring 2019 - Spring 2020; now at J.P. Morgan)
+* Edward Wei (Undergrad Student, Spring 2022 - Spring 2023)
+* Ethan Blaser (Undergrad Student, Spring 2020 - Fall 2021; now a Ph.D. student at UVa)
+* Weihao Song (Master Student, Spring 2019 - Spring 2020; now at J.P. Morgan)
