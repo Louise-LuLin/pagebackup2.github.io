@@ -3,7 +3,6 @@ layout: page
 permalink: /publication/
 title: Publication
 description: publications by categories in reversed chronological order.
-years: [2024, 2023, 2022, 2020, 2019, 2017, 2014]
 nav: true
 nav_order: 2
 ---
@@ -17,10 +16,7 @@ nav_order: 2
 <p>* denotes equal contribution.</p>
 
 <h1> Conference & Journal Papers </h1>
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}},category=conference]* %}
-{% endfor %}
+{% bibliography -f papers -q @*[category=conference]* %}
 
 <h1> Workshop Papers </h1>
 {% bibliography -f papers -q @*[category=workshop]* %}
