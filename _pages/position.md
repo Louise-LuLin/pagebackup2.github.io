@@ -3,7 +3,7 @@ layout: page
 permalink: /position/
 title: Open Position
 nav: true
-sort: 4
+sort: 5
 ---
 
 ### For Prospective PhD Students
@@ -11,7 +11,7 @@ I am looking for PhD students who are passionate about research (machine leanrin
 <!--  -->
 {:align="justify"}
 
-* Send your application to Lu Lin (`lulin[at]psu[dot]edu`)
+* Send your application to Lu Lin (`lxl5598[at]psu[dot]edu`)
 * Mail subject line as *[Prospective Student - PhD] Your Name*
 * Briefly mention your education background, GPA/Rank, English test scores (especially speaking) if available
 * Briefly introduce your research experience, and it will make you stand out if you have publications at top-tier venues (e.g., ICML, NeurIPS, ICLR, KDD, WWW, AAAI etc)
